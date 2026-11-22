@@ -10,7 +10,7 @@
         }
     ],
     "publishConfig": {
-        "access": "public"
+        "registry": "https://npm.pkg.github.com"
     },
     "homepage": "https://github.com/Marak/colors.js",
     "bugs": "https://github.com/Marak/colors.js/issues",
